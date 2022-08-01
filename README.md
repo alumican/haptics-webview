@@ -1,1 +1,1 @@
-# haptics-webview
+# HapticsWebView
